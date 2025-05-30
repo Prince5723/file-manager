@@ -1,0 +1,17 @@
+{
+  "name": "file-system",
+  "version": "1.0.0",
+  "description": "A file management system with CLI and web interface",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file-system",
+    "cli",
+    "web-interface"
+  ],
+  "author": "",
+  "license": "ISC"
+}
